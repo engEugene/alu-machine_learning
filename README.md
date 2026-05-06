@@ -1,4 +1,3 @@
 # alu-machine_learning
 
-Eugene Koech
-
+Eugene Koech - coming from engEugene local git setup
